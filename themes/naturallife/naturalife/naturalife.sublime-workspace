@@ -1,0 +1,2012 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remove",
+				"remove_filter\tWP Function"
+			],
+			[
+				"get_st",
+				"get_stylesheet_directory\tWP Function"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sliders",
+				"sliders_array"
+			],
+			[
+				"template",
+				"template_redirect\tWP Action Name"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"class",
+				"class_exists"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"a",
+				"actions"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"tem",
+				"templates"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wp_ks",
+				"wp_kses_post\tWP Function"
+			],
+			[
+				"my",
+				"my_allowed"
+			],
+			[
+				"wp_k",
+				"wp_kses_post\tWP Function"
+			],
+			[
+				"c",
+				"checked"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fu",
+				"fullwidth\t _structure.scss"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"esc_",
+				"esc_attr\tWP Function"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"cus",
+				"custom_size"
+			],
+			[
+				"image",
+				"image_sizes"
+			],
+			[
+				"clas",
+				"class\tclass …"
+			],
+			[
+				"skin",
+				"skin_id"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"addi",
+				"additional_variables"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"cu",
+				"current_language"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"touc",
+				"touchstart"
+			],
+			[
+				"windo",
+				"window"
+			],
+			[
+				"src",
+				"srcset"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mar-",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"c-",
+				"c-long\tLong Comment"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"sani",
+				"sanitize_title\tWP Function"
+			],
+			[
+				"esc",
+				"esc_attr\tWP Function"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"remove_ac",
+				"remove_action\tWP Function"
+			],
+			[
+				"page",
+				"page_design_options"
+			],
+			[
+				"body_ba",
+				"body_background_image_url"
+			],
+			[
+				"them",
+				"theme_options"
+			],
+			[
+				"transfo",
+				"transform: "
+			],
+			[
+				"tou",
+				"touchstart"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"rt",
+				"rtframework_social_media_icons"
+			],
+			[
+				"video",
+				"video_output"
+			],
+			[
+				"businessloun",
+				"businesslounge_"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"businesslou",
+				"businesslounge"
+			],
+			[
+				"is_si",
+				"is_singular\tWP Function"
+			],
+			[
+				"w",
+				"width: "
+			],
+			[
+				"dynamic_sidebar_",
+				"dynamic_sidebar_before\tWP Action Name"
+			],
+			[
+				"templa",
+				"template_redirect\tWP Action Name"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"whi",
+				"white-space: "
+			],
+			[
+				"over",
+				"overflow: "
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"margin",
+				"margin-left: "
+			],
+			[
+				"rt_im",
+				"rt_images_loaded"
+			],
+			[
+				"ov",
+				"overflow: "
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"defi",
+				"defined"
+			],
+			[
+				"mobile",
+				"mobile_items"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"arr",
+				"arrSliders"
+			],
+			[
+				"wp_reset",
+				"wp_reset_query\tWP Function"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"ou",
+				"outerHeight"
+			],
+			[
+				"animate",
+				"animated"
+			],
+			[
+				"resi",
+				"resize_width"
+			],
+			[
+				"item",
+				"item_width"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"content",
+				"contentWindow"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"paral",
+				"parallax_settings"
+			],
+			[
+				"min",
+				"min_height"
+			],
+			[
+				"ke",
+				"keyup"
+			],
+			[
+				"tri",
+				"trigger"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"doin",
+				"DOING_AJAX\tWP Constant"
+			],
+			[
+				"post_id",
+				"post_ID"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"tran",
+				"transform-origin: "
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"si",
+				"sidebar"
+			],
+			[
+				"add",
+				"addHeigth"
+			],
+			[
+				"stored",
+				"stored_404"
+			],
+			[
+				"fon-",
+				"font-size: "
+			],
+			[
+				"font",
+				"font-weight: "
+			],
+			[
+				"dat",
+				"data_title"
+			],
+			[
+				"data",
+				"data_description"
+			],
+			[
+				"transfor",
+				"transform-origin: "
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"p",
+				"position: "
+			],
+			[
+				"ali",
+				"align-items: "
+			],
+			[
+				"ri",
+				"right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "naturalife/rt-framework/functions/woo-integration.php",
+			"settings":
+			{
+				"buffer_size": 12600,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/templates/source/2.json",
+			"settings":
+			{
+				"buffer_size": 22832,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/js/elementor-addons.js",
+			"settings":
+			{
+				"buffer_size": 2174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "naturalife/rt-framework/classes/loading.php",
+			"settings":
+			{
+				"buffer_size": 19404,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php \n/**\n * RT-THEME Main Functions File\n *\n * @author \t\tRT-Themes\n * @package \tRT-Framework/Functions\n * @since \t\t1.0\n * @version    1.0\n */\n\nif( ! function_exists(\"rtframework_check_WP_version\") ){\n\t/**\n\t *  Check WordPress Version\n\t * @return bool              \n\t */\n\tfunction rtframework_check_WP_version(){\n\t\tglobal $wp_version;\n\n\t\tif (version_compare($wp_version,\"4.8\",\"<\"))\n\t\t{\n\t\t\treturn '\n\t\t\t\t<div id=\"notice\" class=\"error\"><p><strong><h3>\n\t\t\t\t'.esc_html_x(\"WORDPRESS VERSION ERROR!\",'Admin Panel',\"naturalife\").'\n\t\t\t\t</h3>\n\t\t\t\t'.esc_html_x(\"This theme requires WordPress Version 4.8 or higher to run. Please upgrade your WordPress version!\",'Admin Panel',\"naturalife\").'\n\t\t\t\t</strong> <br /><br /><a href=\"http://codex.wordpress.org/Upgrading_WordPress\">\n\t\t\t\t'.esc_html_x(\"How can I upgrade my WordPress version?\",'Admin Panel',\"naturalife\").'\n\t\t\t\t</a></p><br /></div>\n\t\t\t';\n\t\t}\n\t\t\n\t\treturn false;\n\t}\n} \ndefine('RT_FRAMEWOK', TRUE);\n\nif( ! function_exists(\"rtframework_check_PHP_version\") ){\n\t/**\n\t *  Check PHP Version\n\t * @return bool              \n\t */\n\tfunction rtframework_check_PHP_version(){\n\t\tglobal $wp_version;\n\n\t\tif (version_compare(PHP_VERSION, '5.6', '<'))\n\t\t{\n\t\t\treturn '\n\t\t\t\t<div id=\"notice\" class=\"error\"><p><strong><h3>\n\t\t\t\t'.esc_html_x(\"PHP VERSION ERROR!\",'Admin Panel',\"naturalife\").'\n\t\t\t\t</h3>\n\t\t\t\t'.esc_html_x(\"This theme requires PHP Version 5.6 or higher to run. Please upgrade your PHP version!\",'Admin Panel',\"naturalife\").'\n\t\t\t\t</strong> <br />\n\t\t\t\t'.esc_html_x(\"You can contact your hosting provider to upgrade PHP version of your website.\",'Admin Panel',\"naturalife\").'\n\t\t\t\t</p></div>\n\t\t\t';\n\t\t}\n\t\t\n\t\treturn false;\n\t}\n} \n\nif ( ! function_exists(\"rtframework_load\") ){\n\t/**\n\t *\n\t * Load the theme\n\t *\n\t * @return class [RT Main Class] \n\t *\n\t */\n\tfunction rtframework_load(){\n\t\t\n\t\t$control_versions = rtframework_check_WP_version(); \n\t\t$control_versions .= rtframework_check_PHP_version(); \n\n\t\tif( $control_versions ){\n\t\t\tif(is_admin()){\n\t\t\t\tadd_action( \"admin_notices\", function() use (&$control_versions){\n\t\t\t\t\techo wp_kses_post( $control_versions );\n\t\t\t\t},10,1);\t\t\t\t\n\t\t\t}\n\t\t\telse{\n\t\t\t\twp_die( $control_versions );\n\t\t\t} \n\t\t}else{\n\t\t\trequire_once ( get_template_directory() . '/rt-framework/classes/loading.php' );\n\t\t\t$rttheme = new RTFramework();\n\n\t\t\t/*\n\t\t\t* \t DO NOT CHANGE slug => \"\" !!! \n\t\t\t*/\n\t\t\t$rttheme->start(array('theme' => 'NaturaLife','slug' => 'naturalife','version' => '1.0'));\n\t\t\t\n\t\t}\t\n\t}\n}\nrtframework_load();\n\nif ( ! isset( $content_width ) && defined(\"RT_CONTENT_FULL_WIDTH\") ){\n\t/**\n\t *  Define Content Width\n\t */\n\t$content_width = RT_CONTENT_FULL_WIDTH;\t\n}",
+			"file": "naturalife/functions.php",
+			"file_size": 2716,
+			"file_write_time": 132285150879256593,
+			"settings":
+			{
+				"buffer_size": 2614,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"re ",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax: css",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set syntax: s",
+				"Set Syntax: SCSS"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package sou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"extra",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"isnta pa",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"activat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"pacak",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"pace",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"GRU",
+				"Grunt"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"page",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 624.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/classes",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/templates",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/templates/source",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife-demo"
+	],
+	"file_history":
+	[
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/classes/rt_customize_panel.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/admin/inc/google_webfonts_json.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/functions.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/admin/inc/rt_portfolio_options.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/imports/wordpress-importer.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-config.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/admin/js/customizer.js",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/classes/theme.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/fontello/config.json",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/js/imagesloaded-min.js",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/js/scripts.js",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/js/jquery-appear-min.js",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/js/waitforimages-min.js",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-templates.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/icon-control.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/naturalife-extensions.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/shortcodes/rt_social_media_icons.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/comments.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/classes/sidebar.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/sidebar.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/classes/loading.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/blog.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/fallback_functions.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/woocommerce/cart/mini-cart.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/post-contents/single-content.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/languages/naturalife.pot",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/functions/theme_functions.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/admin/inc/rt_color_schemas.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/functions/custom_styling.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/popup-search.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_side_panel.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/classes/admin.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/header.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_widgets.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/js/perfect-scrollbar-min.js",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/style.css",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/imports/demos/demo-1/contents/contents_10.xml",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/fontello/css/fontello.css",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/breadcrumb.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/functions/rt_breadcrumb.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_breadcrumb_menu.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/helper-functions.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/rev_slider.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/heading.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/admin/js/spectrum/package.json",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/slider.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_navigation.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/fontello/css/animation.css",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_animations.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/admin/inc/rt_typography_options.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_design_elements.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/bootstrap/mixins/_forms.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_forms.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_helpers.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_tables.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/bootstrap/bootstrap.css",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/author-bio.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/bootstrap/mixins/_image.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/bootstrap/_alert.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_blog.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_typography.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/admin/js/spectrum/Gruntfile.js",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/metaboxes.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/shortcodes/rt_heading.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/accordions.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/button.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/tabs.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/template-blank-page.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/footer-layout1.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/footer.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/functions/woo-integration.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/style.css",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/js/modernizr-min.js",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_pagination.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/search.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/bootstrap/_type.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/bootstrap/_variables.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/bootstrap/_code.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/rtl.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/piechart.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/admin/inc/rt_blog_options.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/woocommerce/global/quantity-input.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_global_structure.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/fontello-elementor-json.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/functions/wpml_functions.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/woocommerce/woocommerce.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/portfolio-contents/carousel-content.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/functions/common_functions.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/searchform.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/wpml-config.xml",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/post-types.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/bbpress/form-search.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/header-layout1.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife-demo/functions.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/functions/rt_resize.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/admin/functions/rt_custom_controls.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/shortcodes/rt_highlight.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/woocommerce/woocommerce.css",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/page.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/templates/source/template-list.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_shortcodes.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_media_queries.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_structure.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/bootstrap/_forms.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/post-contents/single-content-gallery.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/staff-contents/single-content.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/single-staff.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/shortcode_helper.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/templates/source/slider-1.json",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/style.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/js/owl-carousel-min.js",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/owl-carousel.css",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_carousels.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/single.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/post-contents/content.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/elementor-addons/blog_carousel.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/shortcodes/button.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/rt-framework/admin/inc/rt_general_options.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/single-portfolio-layout2.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/single-portfolio.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/css/sass/partials/_portfolio.scss",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/shortcodes/rt_tabs.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/wpml/elementor-wpml-pricing_tables.php",
+		"/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/wpml/elementor-wpml-slider.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/header-layout2.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/js/app-min.js",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/taxonomy-portfolio_categories.php",
+		"/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife/staff-contents/loop-content.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"*.php",
+			"",
+			"*.scss",
+			"*.php",
+			"",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"",
+			"*.css",
+			"*.scss",
+			"",
+			"*.php",
+			"*.*",
+			"*.php",
+			"*.scs",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.css",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"*.scss,",
+			"",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.php,/Users/tolgacan/Sites/WP/wp-content/themes/naturalife/naturalife",
+			"*.php",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\"}]}",
+			"content",
+			"array_walk_recursive",
+			"woo-integration",
+			"woo-inter",
+			"attachment_url",
+			"import",
+			"image",
+			"media",
+			"process_element_export_import_content",
+			"save_defaults",
+			"n rtframework_get_global_value",
+			"itemTop",
+			"win",
+			"position",
+			"scrollTop(",
+			"scroll",
+			"appear",
+			"waitForImages",
+			"rt_images_loaded",
+			"imagesloaded",
+			"RTFramework_Templates_Source",
+			"son",
+			"wp_localize_script",
+			"de",
+			"catego",
+			"cato",
+			"kategor",
+			"add_action( \"elementor",
+			"load_admin_styles",
+			"search",
+			"rtframework_get_settings",
+			"strpos",
+			"_POST",
+			"_design_options",
+			"saveCustomFields",
+			"preview",
+			"footer-info-bar",
+			"get_page_template_slug",
+			"timeou",
+			"animejs",
+			"page-numbers",
+			"comment-reply.js",
+			"add_theme_support",
+			"support",
+			"respond",
+			"comment-form-cookies-consent",
+			"break-word",
+			"post-navigation",
+			"ob_start",
+			"object",
+			".wp-block-gallery",
+			"video",
+			"hr",
+			"code {",
+			"code{",
+			"$spacer",
+			"rtframework_footer_output",
+			"footer",
+			"register_sidebar",
+			"pre",
+			"pre{",
+			"pre",
+			"header",
+			"header ",
+			"subheader ",
+			"sub-header",
+			"sub header",
+			"sub_header",
+			"n rtframework_get_woocommerce_page_title",
+			"rtframework_get_woocommerce_page_title",
+			"rtframework_get_title",
+			"rtframework_taxonomy",
+			"rtframework_get_term_parents",
+			"$home",
+			"property=\"position\"",
+			"query",
+			"jQuery",
+			"inline",
+			"rtframework_get_intermediate_image_sizes",
+			".mq",
+			"websafe",
+			"safe",
+			"webs",
+			"rtframework_get_selected_fonts_list",
+			"fonts",
+			"printr",
+			"printe",
+			"print",
+			"Verdana",
+			"rtframework_get_selected_fonts_list",
+			"google_fonts",
+			".gallery",
+			"is_mobile_menu",
+			"side pan",
+			"script",
+			"window_width",
+			"mobile nav",
+			"mobile ",
+			"esc",
+			"echo ",
+			"ajax",
+			"POST",
+			"GET",
+			"rtframework_params",
+			"ajax",
+			"rt_ajax_contact_form",
+			"wp_ajax_rt_ajax_contact_form",
+			"rt_ajax",
+			"rt_ajax_complete",
+			"ajax",
+			"autoprefixer",
+			"side_panel",
+			"body",
+			"controls_",
+			"@",
+			"each",
+			"foreach",
+			"wp_nav_menu",
+			"**",
+			"***",
+			"style",
+			"register",
+			"wp-login.php?registration=disabled",
+			"Frontend",
+			"Frontend Text",
+			"echo",
+			"call_di"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"echo ( 'false' !== $show_share ) ",
+			"echo ( 'false' !== $show_share ) ?",
+			"echo ( \"false\" !== $show_share ) ",
+			"echo ( \"false\" !== $use_excerpts",
+			"echo ( $use_excerpts !== \"false\" || ",
+			"echo ( $use_excerpts !== 'fal",
+			"echo ( $show_share",
+			"-min",
+			"echo ($use_excerpts !== \"false\" ||  strpos( $post->post_content, '<!--more-->' )) ?",
+			"echo ($show_share !== 'false') ?",
+			"naturalife",
+			"'image_size' => [ \"custom\" ],",
+			"naturalife",
+			"rtframework_params",
+			".rt-skin-selector",
+			"light",
+			" ",
+			"naturalife",
+			"Form Button Background Color",
+			"naturalife",
+			"visible-title-wrapper",
+			".visible-title-wrapper",
+			"naturalife",
+			"84BE38"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "naturalife/rt-framework/functions/woo-integration.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11276,
+								11276
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/inc/templates/source/2.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22832,
+								22832
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 157806.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/tolgacan/Sites/WP/wp-content/Plugins/naturalife-extensions/js/elementor-addons.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "naturalife/rt-framework/classes/loading.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2284,
+								2284
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "naturalife/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 156.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "",
+	"project": "naturalife.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"leem",
+				"naturalife-extensions/js/elementor-addons.js"
+			],
+			[
+				"fun",
+				"naturalife/functions.php"
+			],
+			[
+				"woo",
+				"naturalife/rt-framework/functions/woo-integration.php"
+			],
+			[
+				"fu",
+				"naturalife/functions.php"
+			],
+			[
+				"fonts",
+				"naturalife/rt-framework/admin/inc/google_webfonts_json.php"
+			],
+			[
+				"json",
+				"naturalife/css/fontello/config.json"
+			],
+			[
+				"them",
+				"naturalife/rt-framework/classes/theme.php"
+			],
+			[
+				"cust",
+				"naturalife/rt-framework/admin/js/customizer.js"
+			],
+			[
+				"",
+				"naturalife/js/scripts.js"
+			],
+			[
+				"imagesLoaded",
+				"naturalife/js/imagesloaded-min.js"
+			],
+			[
+				"appe",
+				"naturalife/js/jquery-appear-min.js"
+			],
+			[
+				"wait",
+				"naturalife/js/waitforimages-min.js"
+			],
+			[
+				"scrip",
+				"naturalife/js/scripts.js"
+			],
+			[
+				"image",
+				"naturalife/js/imagesloaded-min.js"
+			],
+			[
+				"eleme",
+				"naturalife-extensions/inc/elementor-config.php"
+			],
+			[
+				"head",
+				"naturalife-extensions/inc/elementor-addons/heading.php"
+			],
+			[
+				"admin",
+				"naturalife/rt-framework/classes/admin.php"
+			],
+			[
+				"help",
+				"naturalife/css/sass/partials/_helpers.scss"
+			],
+			[
+				"theme",
+				"naturalife/rt-framework/functions/theme_functions.php"
+			],
+			[
+				"mea",
+				"naturalife-extensions/inc/metaboxes.php"
+			],
+			[
+				"grun",
+				"naturalife/rt-framework/admin/js/spectrum/Gruntfile.js"
+			],
+			[
+				"stly",
+				"naturalife/css/style.css"
+			],
+			[
+				"cus",
+				"naturalife/rt-framework/functions/custom_styling.php"
+			],
+			[
+				"search",
+				"naturalife/search.php"
+			],
+			[
+				"widget",
+				"naturalife/css/sass/partials/_widgets.scss"
+			],
+			[
+				"sear",
+				"naturalife/search.php"
+			],
+			[
+				"he",
+				"naturalife/header.php"
+			],
+			[
+				"load",
+				"naturalife/rt-framework/classes/loading.php"
+			],
+			[
+				"th",
+				"naturalife/rt-framework/classes/theme.php"
+			],
+			[
+				"comm",
+				"naturalife/comments.php"
+			],
+			[
+				"sass bloc",
+				"naturalife/css/sass/partials/_blog.scss"
+			],
+			[
+				"bread",
+				"naturalife/rt-framework/functions/rt_breadcrumb.php"
+			],
+			[
+				"forms",
+				"naturalife/css/sass/partials/_forms.scss"
+			],
+			[
+				"tab boo",
+				"naturalife/css/bootstrap/bootstrap.css"
+			],
+			[
+				"typo",
+				"naturalife/css/sass/partials/_typography.scss"
+			],
+			[
+				"color",
+				"naturalife/rt-framework/admin/inc/rt_color_schemas.php"
+			],
+			[
+				"the",
+				"naturalife/rt-framework/functions/theme_functions.php"
+			],
+			[
+				"foo",
+				"naturalife/footer-layout1.php"
+			],
+			[
+				"sidebar",
+				"naturalife/rt-framework/classes/sidebar.php"
+			],
+			[
+				"BREAD",
+				"naturalife/css/sass/partials/_breadcrumb_menu.scss"
+			],
+			[
+				"brea",
+				"naturalife/rt-framework/functions/rt_breadcrumb.php"
+			],
+			[
+				"ex",
+				"naturalife-extensions/naturalife-extensions.php"
+			],
+			[
+				"moder",
+				"naturalife/js/modernizr-min.js"
+			],
+			[
+				"goo",
+				"naturalife/rt-framework/admin/inc/google_webfonts_json.php"
+			],
+			[
+				"sass wi",
+				"naturalife/css/sass/partials/_widgets.scss"
+			],
+			[
+				"side pan",
+				"naturalife/css/sass/partials/_side_panel.scss"
+			],
+			[
+				"navi",
+				"naturalife/css/sass/partials/_navigation.scss"
+			],
+			[
+				"script",
+				"naturalife/js/scripts.js"
+			],
+			[
+				"pop se",
+				"naturalife/popup-search.php"
+			],
+			[
+				"sass side",
+				"naturalife/css/sass/partials/_side_panel.scss"
+			],
+			[
+				"per",
+				"naturalife/js/perfect-scrollbar-min.js"
+			],
+			[
+				"anima",
+				"naturalife/css/sass/partials/_animations.scss"
+			],
+			[
+				"ele",
+				"naturalife-extensions/inc/elementor-config.php"
+			],
+			[
+				"slider.php",
+				"naturalife-extensions/inc/elementor-addons/slider.php"
+			],
+			[
+				"pac",
+				"naturalife/rt-framework/admin/js/spectrum/package.json"
+			],
+			[
+				"heading",
+				"naturalife-extensions/inc/elementor-addons/heading.php"
+			],
+			[
+				"ele co",
+				"naturalife-extensions/inc/elementor-config.php"
+			],
+			[
+				"exte",
+				"naturalife-extensions/naturalife-extensions.php"
+			],
+			[
+				"rt",
+				"naturalife-extensions/inc/shortcodes/rt_heading.php"
+			],
+			[
+				"headin",
+				"naturalife-extensions/inc/elementor-addons/heading.php"
+			],
+			[
+				"cus pa",
+				"naturalife/rt-framework/classes/rt_customize_panel.php"
+			],
+			[
+				"side",
+				"naturalife/sidebar.php"
+			],
+			[
+				"sty",
+				"naturalife/style.css"
+			],
+			[
+				"mini",
+				"naturalife/woocommerce/cart/mini-cart.php"
+			],
+			[
+				"s",
+				"naturalife/style.css"
+			],
+			[
+				"st",
+				"naturalife/style.css"
+			],
+			[
+				"sing con",
+				"naturalife/post-contents/single-content.php"
+			],
+			[
+				"elemen blog",
+				"naturalife-extensions/inc/elementor-addons/blog.php"
+			],
+			[
+				"rt brea",
+				"naturalife/rt-framework/functions/rt_breadcrumb.php"
+			],
+			[
+				"tbas",
+				"naturalife-extensions/inc/elementor-addons/tabs.php"
+			],
+			[
+				"button",
+				"naturalife-extensions/inc/elementor-addons/button.php"
+			],
+			[
+				"accor",
+				"naturalife-extensions/inc/elementor-addons/accordions.php"
+			],
+			[
+				"headi",
+				"naturalife-extensions/inc/elementor-addons/heading.php"
+			],
+			[
+				"ele rev",
+				"naturalife-extensions/inc/elementor-addons/rev_slider.php"
+			],
+			[
+				"icon ",
+				"naturalife-extensions/inc/elementor-addons/icon-control.php"
+			],
+			[
+				"styl",
+				"naturalife/style.css"
+			],
+			[
+				"lo",
+				"naturalife/rt-framework/classes/loading.php"
+			],
+			[
+				"sass ele",
+				"naturalife/css/sass/partials/_design_elements.scss"
+			],
+			[
+				"sass fo",
+				"naturalife/css/sass/partials/_forms.scss"
+			],
+			[
+				"qua",
+				"naturalife/woocommerce/global/quantity-input.php"
+			],
+			[
+				"sc",
+				"naturalife/js/scripts.js"
+			],
+			[
+				"ta",
+				"naturalife-extensions/inc/elementor-addons/tabs.php"
+			],
+			[
+				"rt_he",
+				"naturalife-extensions/inc/shortcodes/rt_heading.php"
+			],
+			[
+				"rt head",
+				"naturalife-extensions/inc/elementor-addons/heading.php"
+			],
+			[
+				"rt he",
+				"naturalife-extensions/inc/shortcodes/rt_heading.php"
+			],
+			[
+				"rev",
+				"naturalife-extensions/inc/elementor-addons/rev_slider.php"
+			],
+			[
+				"icon co",
+				"naturalife-extensions/inc/elementor-addons/icon-control.php"
+			],
+			[
+				"helps",
+				"naturalife/css/sass/partials/_helpers.scss"
+			],
+			[
+				"optio",
+				"naturalife/rt-framework/admin/inc/rt_blog_options.php"
+			],
+			[
+				"icon",
+				"naturalife-extensions/inc/elementor-addons/icon-control.php"
+			],
+			[
+				"wml",
+				"naturalife/rt-framework/functions/wpml_functions.php"
+			],
+			[
+				"sass help",
+				"naturalife/css/sass/partials/_helpers.scss"
+			],
+			[
+				"sass blog",
+				"naturalife/css/sass/partials/_blog.scss"
+			],
+			[
+				"sass woo",
+				"naturalife/css/sass/woocommerce/woocommerce.scss"
+			],
+			[
+				"mini-",
+				"naturalife/woocommerce/cart/mini-cart.php"
+			],
+			[
+				"heade",
+				"naturalife/header.php"
+			],
+			[
+				"sasas blo",
+				"naturalife/css/sass/partials/_blog.scss"
+			],
+			[
+				"xml",
+				"naturalife/wpml-config.xml"
+			],
+			[
+				"admi",
+				"naturalife/rt-framework/classes/admin.php"
+			],
+			[
+				"custo pa",
+				"naturalife/rt-framework/classes/rt_customize_panel.php"
+			],
+			[
+				"post",
+				"naturalife-extensions/inc/post-types.php"
+			],
+			[
+				"comm ",
+				"naturalife/rt-framework/functions/common_functions.php"
+			],
+			[
+				"ser",
+				"naturalife/searchform.php"
+			],
+			[
+				"font",
+				"naturalife/css/fontello/css/fontello.css"
+			],
+			[
+				"resize",
+				"naturalife/rt-framework/functions/rt_resize.php"
+			],
+			[
+				"cu co",
+				"naturalife/rt-framework/admin/functions/rt_custom_controls.php"
+			],
+			[
+				"rt_re",
+				"naturalife/rt-framework/functions/rt_resize.php"
+			],
+			[
+				"cus con",
+				"naturalife/rt-framework/admin/functions/rt_custom_controls.php"
+			],
+			[
+				"fon",
+				"naturalife/css/fontello/css/fontello.css"
+			],
+			[
+				"cu",
+				"naturalife/rt-framework/functions/custom_styling.php"
+			],
+			[
+				"shor hi",
+				"naturalife-extensions/inc/shortcodes/rt_highlight.php"
+			],
+			[
+				"ele bu",
+				"naturalife-extensions/inc/elementor-addons/button.php"
+			],
+			[
+				"ele ico",
+				"naturalife-extensions/inc/elementor-addons/icon-control.php"
+			],
+			[
+				"ele font",
+				"naturalife-extensions/inc/elementor-templates.php"
+			],
+			[
+				"se",
+				"naturalife/popup-search.php"
+			],
+			[
+				"sass pagi",
+				"naturalife/css/sass/partials/_pagination.scss"
+			],
+			[
+				"fo",
+				"naturalife/footer.php"
+			],
+			[
+				"page",
+				"naturalife/page.php"
+			],
+			[
+				"templ",
+				"naturalife-extensions/inc/templates/source/template-list.php"
+			],
+			[
+				"ele te",
+				"naturalife-extensions/inc/elementor-templates.php"
+			],
+			[
+				"wpml",
+				"naturalife/rt-framework/functions/wpml_functions.php"
+			],
+			[
+				"pro content sing",
+				"naturalife/post-contents/single-content-gallery.php"
+			],
+			[
+				"sing",
+				"naturalife/staff-contents/single-content.php"
+			],
+			[
+				"sass sho",
+				"naturalife/css/sass/partials/_shortcodes.scss"
+			],
+			[
+				"sass med",
+				"naturalife/css/sass/partials/_media_queries.scss"
+			],
+			[
+				"sass stru",
+				"naturalife/css/sass/partials/_structure.scss"
+			],
+			[
+				"sass form",
+				"naturalife/css/sass/partials/_forms.scss"
+			],
+			[
+				"staff si",
+				"naturalife/staff-contents/single-content.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 798.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/WP/wp-content/themes/ava/ava.sublime-project"
+			]
+		],
+		"width": 545.0
+	},
+	"select_symbol":
+	{
+		"height": 84.0,
+		"last_filter": ".wp-search-form",
+		"selected_items":
+		[
+			[
+				".wp-search-form",
+				".wp-search-form"
+			],
+			[
+				"rtframework_social_m",
+				"rtframework_social_media_share"
+			],
+			[
+				"portfolio_categ",
+				"rt_get_portfolio_categories"
+			],
+			[
+				"photo_gallery",
+				"photo_gallery"
+			],
+			[
+				"boxed-column",
+				".boxed-column"
+			],
+			[
+				"rtframework_is",
+				"rtframework_is_vcfe"
+			],
+			[
+				"minif",
+				"rt_minify_css_output"
+			],
+			[
+				"social",
+				"rt_social_media_share"
+			],
+			[
+				"",
+				"icon-camera-1"
+			],
+			[
+				"post_meta",
+				"rt_post_meta"
+			]
+		],
+		"width": 488.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

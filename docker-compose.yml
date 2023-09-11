@@ -1,0 +1,28 @@
+version: '3.9'
+services:
+  wordpress-code:
+    container_name: wordpress-code
+    #image: wordpress:5.9.3-php7.4-apache
+    image: wordpress
+    restart: always
+    ports:
+      - 6080:80
+    environment:
+      WORDPRESS_DB_HOST: wordpress-db
+      WORDPRESS_DB_USER: wordpressdbuser
+      WORDPRESS_DB_PASSWORD: wordpressdbpass
+      WORDPRESS_DB_NAME: wordpressdb
+    volumes:
+      - ./wordpress-code:/var/www/html
+
+  wordpress-db:
+    image: mysql
+    container_name: wordpress-db
+    restart: always
+    environment:
+      MYSQL_DATABASE: wordpressdb
+      MYSQL_USER: wordpressdbuser
+      MYSQL_PASSWORD: wordpressdbpass
+      MYSQL_RANDOM_ROOT_PASSWORD: '1'
+    volumes:
+      - ./wordpress-db:/var/lib/mysql
